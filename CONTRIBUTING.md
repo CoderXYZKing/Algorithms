@@ -10,7 +10,7 @@
 
 #### **Do you want to contribute to the documentation?**
 
-- Please read the documentation in here [Contributing to the Documentation](https://github.com/CoderXYZKing/Algorithms/CONTRIBUTING.md) ,[open a new issue](https://github.com/CoderXYZKing/Algorithms/issues/new), make changes and then create a pull request, it will be put under review and accepted if it is appropriate.
+- Please read the documentation in here [Contributing to the Documentation](https://github.com/CoderXYZKing/Algorithms/blob/main/CONTRIBUTING.md) ,[open a new issue](https://github.com/CoderXYZKing/Algorithms/issues/new), make changes and then create a pull request, it will be put under review and accepted if it is appropriate.
 
 #### **Do you want to add a new feature?**
 
